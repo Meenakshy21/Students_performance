@@ -1,0 +1,3 @@
+data_ingestion:
+  source_file: data/external_data/StudentsPerformance.csv
+  destination_file: data/raw_data/raw.csv
